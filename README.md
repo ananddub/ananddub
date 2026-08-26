@@ -1,72 +1,44 @@
 <div align="center">
 
-# ⚡ Anand Dubey
+# Anand Dubey
 
 <p align="center">
   <a href="https://github.com/ananddub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Mobile+%26+Distributed+Systems+Engineer;React+Native+%7C+Flutter+%7C+Kotlin+Jetpack+Compose;High-Concurrency+Backends+in+Go+%26+Rust;Real-Time+gRPC%2C+UDP+Voice+Sockets+%26+LiveKit+WebRTC;Production-Grade+Deployments+on+Google+Play+Store" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Mobile+%26+Distributed+Systems+Software+Engineer;React+Native+%7C+Flutter+%7C+Kotlin+Jetpack+Compose;High-Concurrency+Backends+in+Go+%26+Rust;Real-Time+gRPC%2C+WebSockets%2C+UDP+%26+LiveKit+WebRTC;Production-Grade+Deployments+on+Google+Play+Store" alt="Typing Banner" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:duanand6@gmail.com"><img src="https://img.shields.io/badge/Email-duanand6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ananddub"><img src="https://img.shields.io/badge/GitHub-ananddub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-India-007ACC?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="mailto:duanand6@gmail.com"><img src="https://img.shields.io/badge/Gmail-duanand6%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ananddub"><img src="https://img.shields.io/badge/GitHub-ananddub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-India-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Overview
 
-I am a **Mobile & Systems Software Engineer** passionate about building robust, high-throughput architectures and pixel-perfect mobile applications. My expertise spans:
-
-- 📱 **Mobile Ecosystem:** Designing smooth, 60 FPS cross-platform apps (**React Native, Flutter**) and modern native Android clients (**Kotlin, Jetpack Compose, MVVM**).
-- ⚙️ **Systems & Distributed Backend:** Architecting high-concurrency microservices, low-latency gRPC services, and dedicated UDP voice engines in **Go (Golang)** and **Rust**.
-- 🗄️ **Data & Infrastructure:** Distributed storage and streaming architectures using **ScyllaDB, TimescaleDB, Redis, Redpanda (Kafka), PostgreSQL, MinIO S3, and Docker**.
-- 🚀 **Production Impact:** Real-world experience deploying production applications directly to the **Google Play Store**.
+I am a **Mobile & Systems Software Engineer** specializing in building high-performance cross-platform mobile apps and low-latency distributed backends. My work emphasizes clean architecture, 60 FPS UI performance, offline-first synchronization, and high-concurrency microservices.
 
 ---
 
-### 🛠 Comprehensive Tech Stack
+### 🛠 Skills & Technologies
 
-#### 🔹 **Core Programming Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,rust,kotlin,dart,ts,js,python,c,cpp,java,bash&perline=11" alt="Languages" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,kotlin,dart,ts,js,python,c,cpp,bash,react,flutter,androidstudio,redux,tailwind,nextjs,grpc,docker,kubernetes,nginx,redis,postgres,mongodb,firebase,appwrite,linux,nix,git,neovim&perline=15" alt="Tech Stack Icons" />
+</div>
 
-#### 🔹 **Mobile Development & State Management**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,redux,tailwind,vite,nextjs&perline=10" alt="Mobile & Frontend" />
-</p>
-<p>
-  <code>React Native</code> • <code>Flutter</code> • <code>Jetpack Compose</code> • <code>Riverpod 2.0</code> • <code>Zustand</code> • <code>Redux Toolkit</code> • <code>Routemaster</code> • <code>MMKV Caching</code> • <code>Room DB</code> • <code>RN Track Player</code> • <code>LiveKit WebRTC</code> • <code>Lottie Animations</code>
-</p>
+<br>
 
-#### 🔹 **Backend, Systems & Protocols**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=grpc,nodejs,express,fastapi,flask,graphql&perline=10" alt="Backend" />
-</p>
-<p>
-  <code>Go (Fiber, Gin, gRPC)</code> • <code>Rust (Tokio, SQLx, Axum)</code> • <code>Protobuf</code> • <code>UDP Sockets (Voice Protocol)</code> • <code>WebSockets</code> • <code>RESTful APIs</code> • <code>OpenFGA (RBAC/ABAC)</code> • <code>WireGuard Tunnels</code>
-</p>
-
-#### 🔹 **Databases, Caches & Message Streaming**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,appwrite&perline=10" alt="Databases" />
-</p>
-<p>
-  <code>ScyllaDB (Cassandra)</code> • <code>TimescaleDB</code> • <code>PostgreSQL</code> • <code>Redis Pub/Sub</code> • <code>Redpanda (Kafka)</code> • <code>MongoDB (GeoJSON)</code> • <code>MinIO (S3 Object Storage)</code> • <code>Cloud Firestore</code>
-</p>
-
-#### 🔹 **DevOps, Cloud & Developer Tooling**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,ubuntu,arch,nix,git,github,postman,neovim,vscode&perline=12" alt="DevOps & Tools" />
-</p>
-<p>
-  <code>Docker Compose</code> • <code>Kubernetes</code> • <code>Nix Flakes / NixOS</code> • <code>Testcontainers (TDD)</code> • <code>GitHub Actions CI/CD</code> • <code>Grafana & Prometheus</code>
-</p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Go (Golang)`, `Rust`, `Kotlin`, `Dart`, `TypeScript`, `JavaScript`, `Python`, `C`, `C++`, `Java`, `Bash` |
+| **Mobile & Frontend** | `React Native`, `Flutter`, `Jetpack Compose (Android Native)`, `Riverpod 2.0`, `Zustand`, `Redux Toolkit`, `Routemaster`, `MMKV`, `Room DB`, `LiveKit WebRTC`, `RN Track Player` |
+| **Backend & Systems** | `gRPC & Protobuf`, `UDP Voice Protocol`, `Tokio / SQLx (Rust)`, `Fiber / Gin (Go)`, `FastAPI`, `WebSockets`, `OpenFGA (RBAC)`, `WireGuard Tunnels` |
+| **Databases & Streaming** | `ScyllaDB (Cassandra)`, `TimescaleDB`, `PostgreSQL`, `Redis Pub/Sub`, `Redpanda (Kafka)`, `MongoDB (GeoJSON)`, `MinIO S3`, `Cloud Firestore` |
+| **DevOps & Infrastructure** | `Docker & Docker Compose`, `Kubernetes`, `Nix Flakes / NixOS`, `Linux Systems`, `Testcontainers (TDD)`, `GitHub Actions CI/CD`, `Grafana & Prometheus` |
 
 ---
 
