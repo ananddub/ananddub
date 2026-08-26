@@ -104,14 +104,6 @@ I'm a **Software Engineer** based in **Bengaluru, India** specializing in high-p
 
 ---
 
-### 🛒 [Blinkit Quick-Commerce — Full-Stack Android App](https://github.com/ananddub/blinkit-android)
-> *Complete 10-minute grocery delivery native Android application with User and Admin modules.*
-- **User & Admin Modules:** Firebase Phone OTP authentication, category filtering with shimmer loading, dynamic image sliders, Room local database caching, address management, Razorpay payment gateway, and live real-time order tracking.
-- **Admin Dashboard:** Real-time inventory control, product CRUD, and dispatch status updates.
-- `Kotlin` • `Android XML` • `MVVM` • `Firebase Auth` • `Room DB` • `Razorpay` • `Retrofit` • `Glide`
-
----
-
 ### 🎧 [Incord (Discord Clone Android App)](https://github.com/ananddub/incord)
 > *Built a Discord-inspired Android application with real-time messaging, voice/video calls, and guild/channel management using Kotlin and Jetpack Compose.*
 - **Distributed Backend:** High-concurrency Go engine with gRPC for transactional state and dedicated UDP server for sub-50ms voice packet routing. Backed by ScyllaDB, TimescaleDB, Redis, and Redpanda.
