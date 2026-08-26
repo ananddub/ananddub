@@ -152,21 +152,6 @@ I'm a **Software Engineer** based in **Bengaluru, India** specializing in high-p
 
 ---
 
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ananddub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ananddub&theme=tokyonight&show_icons=true&hide_border=true" alt="Anand's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ananddub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <sub>⚡ <i>"Turning complex systems and architecture into high-performance, elegant software."</i> ⚡</sub>
 </div>
