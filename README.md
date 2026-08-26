@@ -22,20 +22,20 @@
 
 I'm a **Software Engineer** focused on building **high-performance mobile applications**, **distributed backend systems**, and **real-time communication engines**.
 
-I enjoy solving complex engineering challenges—from designing high-concurrency microservices with **Go** and **Rust** to crafting fluid 60 FPS mobile user experiences across **React Native**, **Flutter**, and native Android (**Kotlin / Jetpack Compose**). I have end-to-end experience taking platforms from architectural design to **Google Play Store production releases**.
+I enjoy solving complex engineering challenges—from designing high-concurrency microservices with **Go** and **Rust** to crafting fluid 60 FPS mobile user experiences across **React Native**, **Flutter**, and native Android (**Kotlin / Jetpack Compose**). I have end-to-end experience taking mobile platforms from initial architecture to **Google Play Store production releases**.
 
 ---
 
 ## 🛠 Skills & Technical Arsenal
 
-### 💻 Languages
+### 💻 Core Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,rust,kotlin,dart,ts,js,python,c,cpp,java,bash&perline=11" alt="Languages" />
 </p>
 
 ### 📱 Mobile Engineering & State Management
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,redux,tailwind,nextjs,vite&perline=10" alt="Mobile" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,redux,tailwind&perline=10" alt="Mobile" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -50,24 +50,24 @@ I enjoy solving complex engineering challenges—from designing high-concurrency
   <img src="https://img.shields.io/badge/RN_Track_Player-1DB954?style=flat-square" />
 </p>
 
-### ⚡ Backend, Systems & Protocols
+### ⚡ Systems, Backend & Distributed Protocols
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=grpc,nodejs,express,fastapi,flask,graphql&perline=10" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=go,rust,nodejs,express,fastapi,linux,docker&perline=10" alt="Systems and Backend" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/gRPC_%26_Protobuf-244c5a?style=flat-square&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust_Tokio-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC_%26_Protobuf-244c5a?style=flat-square&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/UDP_Voice_Sockets-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLx_Engine-CE412B?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenFGA_AuthZ-101828?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenFGA_Permissions-101828?style=flat-square" />
   <img src="https://img.shields.io/badge/WireGuard_Tunnels-88171A?style=flat-square&logo=wireguard&logoColor=white" />
 </p>
 
-### 🗄️ Databases, Streaming & Storage
+### 🗄️ Databases, Streaming & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,appwrite&perline=10" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,appwrite,docker,kubernetes,nix&perline=10" alt="Databases and Infra" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/ScyllaDB-556880?style=flat-square&logo=apachecassandra&logoColor=white" />
@@ -76,21 +76,10 @@ I enjoy solving complex engineering challenges—from designing high-concurrency
   <img src="https://img.shields.io/badge/Redis_Pub%2FSub-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Redpanda_Kafka-FF4713?style=flat-square&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/MinIO_S3-C72C48?style=flat-square&logo=minio&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB_GeoJSON-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-</p>
-
-### ☁️ DevOps, Infrastructure & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,ubuntu,arch,nix,git,github,postman,neovim,vscode&perline=12" alt="DevOps" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nix_Flakes_%2F_NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nix_Flakes-5277C3?style=flat-square&logo=nixos&logoColor=white" />
   <img src="https://img.shields.io/badge/Testcontainers_TDD-2B7A78?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub_Actions_CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus_%26_Grafana-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
 </p>
 
 ---
@@ -114,7 +103,7 @@ I enjoy solving complex engineering challenges—from designing high-concurrency
 ---
 
 ### 🎵 [SoundPulse — High-Performance Audio Streaming App](https://github.com/ananddub/soundpulse)
-> *Cross-platform music streaming platform featuring low-latency background audio services.*
+> *Mobile music streaming platform featuring low-latency background audio services.*
 - **Audio Engine:** Background audio playback, lock-screen controls, and notification triggers via React Native Track Player.
 - **State & Caching:** Zustand state machine with MMKV storage for instant hydration and dynamic palette color extraction.
 - `React Native` • `TypeScript` • `Zustand` • `RN Track Player` • `MMKV Storage`
@@ -130,8 +119,8 @@ I enjoy solving complex engineering challenges—from designing high-concurrency
 ---
 
 ### 💬 [ThreadNest — Responsive Cross-Platform Community App](https://github.com/ananddub/threadnest)
-> *Full-stack community discussion forum supporting adaptive layouts for Mobile and Web.*
-- **Cross-Platform:** Adaptive responsive layout supporting Android, iOS, and Desktop Web via Flutter.
+> *Full-stack community discussion forum with real-time voting and hierarchical discussions.*
+- **Cross-Platform:** Adaptive responsive layout supporting Android and iOS via Flutter.
 - **Community Mechanics:** Subreddit management, Google/Guest auth, Karma calculation, and Routemaster declarative navigation.
 - `Flutter` • `Dart` • `Firebase Auth` • `Cloud Firestore` • `Routemaster`
 
