@@ -112,13 +112,6 @@ I'm a **Software Engineer** based in **Bengaluru, India** specializing in high-p
 
 ---
 
-### 💬 ChatConnect — Real-Time SwiftUI & Firebase Chat App
-> *Native iOS real-time chat application with one-to-one messaging and instant synchronization.*
-- **iOS Architecture:** Built with Swift and SwiftUI, featuring Firebase Authentication and Cloud Firestore real-time message stream synchronizers.
-- `Swift` • `SwiftUI` • `Firebase Auth` • `Cloud Firestore`
-
----
-
 ### 🎓 Equality Through Education (ETE) — Published Mobile Platform
 > *Live production educational platform deployed on Google Play Store serving students across institutions.*
 - **Production Deployment:** Full-lifecycle production application delivering centralized curriculum and learning modules.
