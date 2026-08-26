@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://github.com/ananddub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%94+Mobile+%26+Backend;Flutter+%7C+React+Native+%7C+Kotlin+Jetpack+Compose;Building+High-Performance+Backends+in+Go+%26+Rust;Real-Time+WebSockets%2C+gRPC+%26+LiveKit+WebRTC" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%94+Mobile+%26+Systems+Engineering;React+Native+%7C+Flutter+%7C+Kotlin+Jetpack+Compose;High-Throughput+Engines+in+Rust+%26+Go;Real-Time+gRPC%2C+UDP+Voice+Sockets+%26+LiveKit+WebRTC;Production+Mobile+Platforms+Deployed+to+Google+Play+Store" alt="Typing Banner" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:duanand6@gmail.com"><img src="https://img.shields.io/badge/Email-duanand6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ananddub"><img src="https://img.shields.io/badge/GitHub-ananddub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://github.com/ananddub/portfolio"><img src="https://img.shields.io/badge/Portfolio-Live_Site-00ff88?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
 </div>
@@ -20,12 +20,11 @@
 
 ## 🚀 About Me
 
-I'm a software developer with hands-on experience building mobile apps and backend services. I enjoy taking ideas from scratch to production with clean code and reliable architecture.
+I'm a **Software Engineer** specializing in cross-platform mobile development (**React Native, Flutter**), native Android (**Kotlin & Jetpack Compose**), and high-performance backend systems (**Rust & Go**).
 
-- 📱 **Mobile:** Building responsive cross-platform apps with **Flutter** and **React Native**, as well as native Android with **Kotlin & Jetpack Compose**.
-- ⚡ **Backend:** Writing scalable, concurrent services and APIs in **Go (Golang)** and **Rust**.
-- 🗄️ **Data & Real-Time:** Working with **PostgreSQL, Redis, ScyllaDB**, real-time **WebSockets, and gRPC**.
-- 🚀 **Shipping:** Experienced in building full-stack products, setting up offline-first local caching, and deploying to the **Google Play Store**.
+- 📱 **Mobile Engineering:** Building 60 FPS offline-first apps, local caching (MMKV/Room), fluid animations, and Google Play Store production deployments.
+- ⚡ **Systems & Distributed Backend:** Architecting lock-free concurrent in-memory database engines, low-latency gRPC services, dedicated UDP socket voice streaming, and distributed pub/sub.
+- 🗄️ **Data & Infrastructure:** Scalable persistence with ScyllaDB, TimescaleDB, PostgreSQL, Redis, and reproducible Docker/NixOS container deployments.
 
 ---
 
@@ -36,7 +35,7 @@ I'm a software developer with hands-on experience building mobile apps and backe
   <img src="https://skillicons.dev/icons?i=go,rust,kotlin,dart,ts,js,python,c,cpp,java,bash&perline=11" alt="Languages" />
 </p>
 
-### 📱 Mobile Engineering & State Management
+### 📱 Mobile Development & State Management
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,redux,tailwind&perline=10" alt="Mobile" />
 </p>
@@ -61,6 +60,7 @@ I'm a software developer with hands-on experience building mobile apps and backe
   <img src="https://img.shields.io/badge/gRPC_%26_Protobuf-244c5a?style=flat-square&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust_Tokio-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lock--Free_EBR-CE412B?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/UDP_Voice_Sockets-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLx_Engine-CE412B?style=flat-square&logo=rust&logoColor=white" />
@@ -87,21 +87,21 @@ I'm a software developer with hands-on experience building mobile apps and backe
 
 ---
 
-## 🎯 Featured Engineering Projects
+## 🎯 Featured Engineering Systems
 
-### 🎧 [Incord — Full-Stack Real-Time Voice & Chat Platform](https://github.com/ananddub/incord)
-> *Distributed real-time platform with dual-transport architecture and native Android client.*
-- **Distributed Backend:** High-concurrency Go engine with gRPC for transactional state and dedicated UDP server for sub-50ms voice packet routing. Backed by ScyllaDB (messages), TimescaleDB (telemetry), Redis (presence), and 171 automated Testcontainers tests.
-- **Native Android Client:** 17+ screen native client in Kotlin using Jetpack Compose (MVVM), LiveKit WebRTC, and Room DB offline caching.
-- `Go` • `gRPC` • `UDP Sockets` • `ScyllaDB` • `TimescaleDB` • `Kotlin` • `Jetpack Compose` • `LiveKit WebRTC` • `Room DB`
+### ⚡ [FerroDB — Redis-Compatible Lock-Free In-Memory Database](https://github.com/ananddub/ferrodb)
+> *High-throughput in-memory key-value database engine in Rust with lock-free concurrent hash map (EBR) outperforming traditional clusters.*
+- **Lock-Free Core:** Custom `customhash` crate with epoch-based memory reclamation (EBR) and per-key seqlock for safe, concurrent in-place mutations.
+- **Protocol & Engine:** Full zero-copy RESP2 & RESP3 parser, transactions (`MULTI`/`EXEC`), pub/sub channels, RDB snapshot binary persistence, and geospatial index support.
+- `Rust` • `Tokio` • `Lock-Free EBR` • `RESP3` • `Memory Safety`
 
 ---
 
-### ⚡ [FerroDB — Redis-Compatible Lock-Free In-Memory Database](https://github.com/ananddub/ferrodb)
-> *In-memory key-value store in Rust with lock-free concurrent hash map (EBR) outperforming standard clusters.*
-- **Lock-Free Core:** Custom `customhash` crate with epoch-based reclamation (EBR) and per-key seqlock for safe, concurrent in-place mutations.
-- **Protocol ### 🦀 [OpenOxide Engine:** Full RESP2 ### 🦀 [OpenOxide RESP3 parser, pipelining, transactions, pub/sub channels, RDB snapshot persistence, and geospatial index support.
-- `Rust` • `Tokio` • `Lock-Free EBR` • `RESP3` • `Memory Safety`
+### 🎧 [Incord — Full-Stack Real-Time Voice & Chat Platform](https://github.com/ananddub/incord)
+> *Distributed real-time communication platform with dual-transport architecture and native Android client.*
+- **Distributed Backend:** High-concurrency Go engine with gRPC for transactional state and dedicated UDP server for sub-50ms voice packet routing. Backed by ScyllaDB (messages), TimescaleDB (telemetry), Redis (presence), and 171 automated Testcontainers tests.
+- **Native Android Client:** 17+ screen native client in Kotlin using Jetpack Compose (MVVM), LiveKit WebRTC, and Room DB offline caching.
+- `Go` • `gRPC` • `UDP Sockets` • `ScyllaDB` • `TimescaleDB` • `Kotlin` • `Jetpack Compose` • `LiveKit WebRTC` • `Room DB`
 
 ---
 
