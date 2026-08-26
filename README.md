@@ -11,7 +11,7 @@
 <p align="center">
   <a href="mailto:duanand6@gmail.com"><img src="https://img.shields.io/badge/Email-duanand6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ananddub"><img src="https://img.shields.io/badge/GitHub-ananddub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/ananddub/portfolio"><img src="https://img.shields.io/badge/Portfolio-Live_Site-00ff88?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://portfolio-rho-gold-2auz6r1v9x.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live_Site-00ff88?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
 </div>
