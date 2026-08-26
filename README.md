@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ananddub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%94+Mobile+%26+Distributed+Systems;React+Native+%7C+Flutter+%7C+Kotlin+Jetpack+Compose;High-Concurrency+Backends+in+Go+%26+Rust;Real-Time+gRPC%2C+UDP+Voice+Sockets+%26+LiveKit+WebRTC;Production+Mobile+Apps+Deployed+to+Google+Play+Store" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%94+Mobile+%26+Backend;Flutter+%7C+React+Native+%7C+Kotlin+Jetpack+Compose;Building+High-Performance+Backends+in+Go+%26+Rust;Real-Time+WebSockets%2C+gRPC+%26+LiveKit+WebRTC" alt="Typing Banner" />
   </a>
 </p>
 
@@ -20,9 +20,12 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** focused on building **high-performance mobile applications**, **distributed backend systems**, and **real-time communication engines**.
+I'm a software developer with hands-on experience building mobile apps and backend services. I enjoy taking ideas from scratch to production with clean code and reliable architecture.
 
-I enjoy solving complex engineering challenges—from designing high-concurrency microservices with **Go** and **Rust** to crafting fluid 60 FPS mobile user experiences across **React Native**, **Flutter**, and native Android (**Kotlin / Jetpack Compose**). I have end-to-end experience taking mobile platforms from initial architecture to **Google Play Store production releases**.
+- 📱 **Mobile:** Building responsive cross-platform apps with **Flutter** and **React Native**, as well as native Android with **Kotlin & Jetpack Compose**.
+- ⚡ **Backend:** Writing scalable, concurrent services and APIs in **Go (Golang)** and **Rust**.
+- 🗄️ **Data & Real-Time:** Working with **PostgreSQL, Redis, ScyllaDB**, real-time **WebSockets, and gRPC**.
+- 🚀 **Shipping:** Experienced in building full-stack products, setting up offline-first local caching, and deploying to the **Google Play Store**.
 
 ---
 
