@@ -20,10 +20,10 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** specializing in cross-platform mobile development (**React Native, Flutter**), native Android (**Kotlin & Jetpack Compose**), and high-performance backend systems (**Rust & Go**).
+I'm a **Software Engineer** specializing in cross-platform mobile development (**React Native, Flutter**), native Android (**Kotlin & Jetpack Compose**), and high-performance systems & distributed backend (**Rust & Go**).
 
 - 📱 **Mobile Engineering:** Building 60 FPS offline-first apps, local caching (MMKV/Room), fluid animations, and Google Play Store production deployments.
-- ⚡ **Systems & Distributed Backend:** Architecting lock-free concurrent in-memory database engines, low-latency gRPC services, dedicated UDP socket voice streaming, and distributed pub/sub.
+- ⚡ **Systems & Distributed Backend:** Architecting modular host daemons, lock-free concurrent in-memory database engines, low-latency gRPC services, and dedicated UDP voice streaming.
 - 🗄️ **Data & Infrastructure:** Scalable persistence with ScyllaDB, TimescaleDB, PostgreSQL, Redis, and reproducible Docker/NixOS container deployments.
 
 ---
@@ -89,6 +89,14 @@ I'm a **Software Engineer** specializing in cross-platform mobile development (*
 
 ## 🎯 Featured Engineering Systems
 
+### 🦀 [OpenOxide — High-Performance Systems Control Engine](https://github.com/ananddub/openoxide)
+> *Modular server infrastructure and node orchestrator in Rust with zero-overhead memory safety.*
+- **Systems Core:** Compile-time checked SQLx queries, SQLite persistence, and structured state machine reconciliation.
+- **Host Infrastructure:** Docker socket daemon management, automated WireGuard peer provisioning, and host-key pinned SSH wrappers.
+- `Rust` • `TypeScript` • `SQLx` • `SQLite` • `Docker Socket` • `WireGuard` • `Tokio`
+
+---
+
 ### ⚡ [FerroDB — Redis-Compatible Lock-Free In-Memory Database](https://github.com/ananddub/ferrodb)
 > *High-throughput in-memory key-value database engine in Rust with lock-free concurrent hash map (EBR) outperforming traditional clusters.*
 - **Lock-Free Core:** Custom `customhash` crate with epoch-based memory reclamation (EBR) and per-key seqlock for safe, concurrent in-place mutations.
@@ -102,14 +110,6 @@ I'm a **Software Engineer** specializing in cross-platform mobile development (*
 - **Distributed Backend:** High-concurrency Go engine with gRPC for transactional state and dedicated UDP server for sub-50ms voice packet routing. Backed by ScyllaDB (messages), TimescaleDB (telemetry), Redis (presence), and 171 automated Testcontainers tests.
 - **Native Android Client:** 17+ screen native client in Kotlin using Jetpack Compose (MVVM), LiveKit WebRTC, and Room DB offline caching.
 - `Go` • `gRPC` • `UDP Sockets` • `ScyllaDB` • `TimescaleDB` • `Kotlin` • `Jetpack Compose` • `LiveKit WebRTC` • `Room DB`
-
----
-
-### 🦀 [OpenOxide — High-Performance Systems Control Engine](https://github.com/ananddub/openoxide)
-> *Modular server infrastructure and node orchestrator in Rust with zero-overhead memory safety.*
-- **Systems Core:** Compile-time checked SQLx queries, SQLite persistence, and structured state machine reconciliation.
-- **Host Infrastructure:** Docker socket daemon management, automated WireGuard peer provisioning, and host-key pinned SSH wrappers.
-- `Rust` • `TypeScript` • `SQLx` • `SQLite` • `Docker Socket` • `WireGuard` • `Tokio`
 
 ---
 
