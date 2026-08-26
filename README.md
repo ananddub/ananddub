@@ -1,110 +1,53 @@
-<div align="center">
-
-# 👋 Hi, I'm Anand Kumar Dubey
+# Hi there, I'm Anand Kumar Dubey 👋
 
 <p align="center">
   <a href="https://github.com/ananddub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%94+Mobile+%26+Systems+Engineering;Flutter+%7C+Jetpack+Compose+%7C+React+Native;High-Throughput+Engines+in+Rust+%26+Go;Real-Time+gRPC%2C+UDP+Voice+Sockets+%26+LiveKit+WebRTC;Production+Mobile+Platforms+Deployed+to+Google+Play+Store" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%94+Mobile+%26+Systems+Engineering;High-Performance+Backends+in+Go%2C+Rust+%26+Node.js;Cross-Platform+Mobile+Apps+with+Flutter+%26+React+Native;Native+Android+with+Kotlin+%26+Jetpack+Compose;Distributed+Microservices%2C+gRPC+%26+Cloud+Architecture" alt="Typing Banner" />
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:duanand6@gmail.com"><img src="https://img.shields.io/badge/Email-duanand6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ananddub/"><img src="https://img.shields.io/badge/LinkedIn-ananddub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ananddub"><img src="https://img.shields.io/badge/GitHub-ananddub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://portfolio-rho-gold-2auz6r1v9x.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live_Site-00ff88?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-</p>
+**📍 Bengaluru, India | Software Engineer | Mobile & Systems Developer | 🚀 Backend, Mobile, DevOps Enthusiast**
 
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a **Software Engineer** based in **Bengaluru, India** specializing in high-performance native & cross-platform mobile engineering (**Flutter, Jetpack Compose, React Native**), native Android architecture, and scalable distributed systems (**Rust & Go**).
-
-- 📱 **Mobile Engineering:** Building 60 FPS offline-first apps, local caching (MMKV/Room DB/Drift), background audio streaming pipelines (RN Track Player), fluid animations, and Google Play Store production deployments.
-- ⚡ **Systems & Distributed Backend:** Architecting modular server daemons, lock-free concurrent in-memory database engines (EBR), low-latency gRPC services, and dedicated UDP voice streaming.
-- 🗄️ **Data & Infrastructure:** Scalable persistence with PostgreSQL, ScyllaDB, TimescaleDB, Redis, MongoDB, NATS, Kafka, and reproducible Docker/NixOS container deployments.
-
----
-
-## 🛠 Skills & Technical Arsenal
+I am a software engineer who thrives at the intersection of fluid mobile user interfaces and scalable distributed backend architecture. Whether it's architecting high-throughput in-memory database engines in Rust, building real-time gRPC/UDP voice microservices in Go, or crafting 60 FPS mobile experiences with Flutter, Jetpack Compose, and React Native, I focus on building high-performance applications that solve real-world problems.
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,ts,js,kotlin,dart,java,flutter,androidstudio,react,redux,tailwind,nodejs,express,fastapi,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,jenkins,aws,nginx,ansible,linux,git,github&perline=10" alt="Technical Skills" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,go,rust,kotlin,dart,java,flutter,android,react,reactnative,redux,zustand,tailwind,nodejs,expressjs,fastapi,mysql,postgresql,mongodb,redis,kafka,docker,kubernetes,jenkins,aws,nginx,ansible,supabase,firebase,vercel,git,github,postman,linux,arch,ubuntu,nix&perline=19" alt="Technologies" />
 </p>
 
 ---
 
-## 🎯 Featured Engineering Systems
+### 🚀 What I'm Doing
 
-### 🦀 [OpenOxide — High-Performance Systems & Infrastructure Engine](https://github.com/ananddub/openoxide)
-> *Modular server infrastructure control engine in Rust with compile-time checked SQLx queries, Docker socket daemon API, and WireGuard tunnels.*
-- **Systems Core:** Zero-overhead memory lifecycle management, compile-time verified SQLx SQLite persistence, and OpenAPI schema generation.
-- **Host Infrastructure:** Raw Docker daemon socket control, automated WireGuard peer provisioning, and host-key pinned SSH wrappers.
-- `Rust` • `Tokio` • `SQLx` • `SQLite` • `Docker Socket` • `WireGuard` • `TypeScript`
-
----
-
-### ⚡ [FerroDB — Redis-Compatible Lock-Free In-Memory Database](https://github.com/ananddub/ferrodb)
-> *High-throughput in-memory key-value database engine in Rust with custom lock-free concurrent hash map (EBR) outperforming standard clusters.*
-- **Lock-Free Core:** Custom `customhash` crate with epoch-based memory reclamation (EBR) and per-key seqlock for safe concurrent in-place mutations.
-- **Protocol & Persistence:** Full zero-copy RESP2 & RESP3 parser, TTL key expiration, ZSet skiplist, transactions (`MULTI`/`EXEC`), and RDB binary persistence.
-- `Rust` • `Tokio` • `Lock-Free EBR` • `RESP3` • `SkipList` • `Memory Safety`
+- ⚙️ Engineering scalable and high-performance distributed systems in Go & Rust
+- 📱 Building seamless 60 FPS cross-platform mobile apps with Flutter & React Native
+- 🤳 Developing native Android applications using Kotlin, Jetpack Compose & LiveKit WebRTC
+- 🗄️ Architecting real-time communication protocols with gRPC, UDP sockets, and Redis
+- 🤖 Deploying reproducible cloud container environments with Docker & Linux
+- 🎓 Shipped production-grade mobile platforms to the Google Play Store
+- ❤️ Contributing to open source and building high-performance systems engines
 
 ---
 
-### 🎧 [Incord (Discord Clone Android App)](https://github.com/ananddub/incord)
-> *Built a Discord-inspired Android application with real-time messaging, voice/video calls, and guild/channel management using Kotlin and Jetpack Compose.*
-- **Distributed Backend:** High-concurrency Go engine with gRPC for transactional state and dedicated UDP server for sub-50ms voice packet routing. Backed by ScyllaDB, TimescaleDB, Redis, and Redpanda.
-- **Native Android Client:** 15+ screen native client in Kotlin using Jetpack Compose (MVVM + Clean Architecture), LiveKit WebRTC, and Room DB offline caching.
-- `Kotlin` • `Jetpack Compose` • `gRPC` • `LiveKit WebRTC` • `Hilt` • `Room DB` • `Go` • `UDP Sockets`
+### 🎯 Featured Projects
+
+- 🦀 **[OpenOxide](https://github.com/ananddub/openoxide)** — Modular server infrastructure orchestrator in Rust with compile-time SQLx queries, Docker socket daemon, and WireGuard tunnels.
+- ⚡ **[FerroDB](https://github.com/ananddub/ferrodb)** — Redis-compatible in-memory key-value database engine in Rust with lock-free concurrent hash map (EBR) and RESP3 protocol.
+- 🎧 **[Incord](https://github.com/ananddub/incord)** — Distributed real-time voice & chat platform with Go gRPC backend and Kotlin Jetpack Compose Android client.
+- 🎓 **Equality Through Education (ETE)** — Live production educational mobile platform deployed on Google Play Store with in-app PDF distribution.
+- 🎵 **[SoundPulse](https://github.com/ananddub/soundpulse)** — High-performance React Native audio streaming app with background playback and MMKV storage.
+- 🛒 **[CartWave](https://github.com/ananddub/cartwave)** — Full-stack e-commerce mobile app with React Native, Redux Toolkit, and Node.js Express MongoDB backend.
+- 🎲 **[LudoArena](https://github.com/ananddub/ludoarena)** — 4-player cross-platform game engine with collision logic and 60 FPS animations.
+- 💬 **[ThreadNest](https://github.com/ananddub/threadnest)** — Responsive cross-platform discussion forum in Flutter with Cloud Firestore.
 
 ---
 
-### 🎓 Equality Through Education (ETE) — Published Mobile Platform
-> *Live production educational platform deployed on Google Play Store serving students across institutions.*
-- **Production Deployment:** Full-lifecycle production application delivering centralized curriculum and learning modules.
-- **PDF Caching Engine:** In-app PDF rendering and caching engine with background downloading and local storage for seamless offline access.
-- `Flutter` • `Dart` • `Firebase Auth` • `Cloud Firestore` • `PDF Engine` • `Google Play Store Live`
+### 📫 Let's Connect
 
----
+[![Email](https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duanand6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananddub/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ananddub)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://portfolio-rho-gold-2auz6r1v9x.vercel.app)
 
-### 🎵 [SoundPulse — High-Performance Audio Streaming Mobile App](https://github.com/ananddub/soundpulse)
-> *Mobile audio streaming application featuring background audio playback, lock-screen controls, and MMKV storage.*
-- **Audio Pipeline:** Background playback with React Native Track Player, interactive full-screen player, and dynamic artwork color extraction.
-- **State & Storage:** Lightweight state management using Zustand with instant MMKV hydration for high-throughput local caching.
-- `React Native` • `TypeScript` • `Zustand` • `RN Track Player` • `MMKV Storage` • `TailwindCSS`
+<br>
 
----
-
-### 🛒 [CartWave — Full-Stack E-Commerce Mobile Platform](https://github.com/ananddub/cartwave)
-> *Modern cross-platform shopping platform with custom Redux cart engine and Node.js REST API.*
-- **Full-Stack Architecture:** React Native mobile client powered by Redux Toolkit for real-time cart state management and an Express.js REST API backend with MongoDB persistence.
-- **Catalog & Orders:** Categorized product browsing, dynamic carousels, search filters, and integrated AdminJS control panel for inventory.
-- `React Native` • `TypeScript` • `Redux Toolkit` • `Node.js` • `Express.js` • `MongoDB` • `AdminJS`
-
----
-
-### 🎲 [LudoArena — Real-Time Multiplayer Board Game Engine](https://github.com/ananddub/ludoarena)
-> *Turn-based 4-player multiplayer game engine with collision algorithms and 60 FPS animations.*
-- **Game Logic:** Custom coordinate matrix mapping (`PlotData`), collision rules, safe-spot validation, and automated turn rotation.
-- **Interactive UI:** Redux Toolkit state slice, 60 FPS 3D dice roll physics, synchronized SFX triggers, and celebration modal dialogs.
-- `React Native` • `Redux Toolkit` • `Animated API` • `Lottie` • `Sound Utility`
-
----
-
-### 💬 [ThreadNest — Responsive Cross-Platform Community App](https://github.com/ananddub/threadnest)
-> *Full-stack community discussion forum with real-time voting and hierarchical discussions.*
-- **Cross-Platform:** Adaptive responsive layout supporting Android, iOS, and Desktop Web via Flutter.
-- **Community Mechanics:** Subreddit management, Google/Guest auth, Karma calculation, and Routemaster declarative navigation.
-- `Flutter` • `Dart` • `Firebase Auth` • `Cloud Firestore` • `Routemaster`
-
----
-
-<div align="center">
-  <sub>⚡ <i>"Turning complex systems and architecture into high-performance, elegant software."</i> ⚡</sub>
-</div>
+_"Turning complex systems and architecture into high-performance, elegant software."_
