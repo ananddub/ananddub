@@ -97,7 +97,7 @@ I'm a software developer with hands-on experience building mobile apps and backe
 
 ---
 
-### ⚡ [FyroDB — Redis-Compatible Lock-Free In-Memory Database](https://github.com/ananddub/fyrodb)
+### ⚡ [FerroDB — Redis-Compatible Lock-Free In-Memory Database](https://github.com/ananddub/ferrodb)
 > *In-memory key-value store in Rust with lock-free concurrent hash map (EBR) outperforming standard clusters.*
 - **Lock-Free Core:** Custom `customhash` crate with epoch-based reclamation (EBR) and per-key seqlock for safe, concurrent in-place mutations.
 - **Protocol ### 🦀 [OpenOxide Engine:** Full RESP2 ### 🦀 [OpenOxide RESP3 parser, pipelining, transactions, pub/sub channels, RDB snapshot persistence, and geospatial index support.
