@@ -11,7 +11,7 @@
 I am a software engineer who thrives at the intersection of fluid mobile user interfaces and scalable distributed backend architecture. Whether it's architecting high-throughput in-memory database engines in Rust, building real-time gRPC/UDP voice microservices in Go, or crafting 60 FPS mobile experiences with Flutter, Jetpack Compose, and React Native, I focus on building high-performance applications that solve real-world problems.
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,go,rust,kotlin,dart,java,flutter,android,react,reactnative,redux,zustand,tailwind,nodejs,expressjs,fastapi,mysql,postgresql,mongodb,redis,kafka,docker,kubernetes,jenkins,aws,nginx,ansible,supabase,firebase,vercel,git,github,postman,linux,arch,ubuntu,nix&perline=19" alt="Technologies" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,go,ts,js,kotlin,dart,java,cpp,c,bash,flutter,android,react,reactnative,redux,zustand,tailwind,nodejs,expressjs,fastapi,hono,drizzle,prisma,mysql,postgresql,mongodb,redis,kafka,rabbitmq,docker,kubernetes,jenkins,aws,nginx,ansible,prometheus,grafana,supabase,firebase,vercel,git,github,postman,bun,linux,ubuntu,arch,nix,vscode,neovim&perline=17" alt="Technologies" />
 </p>
 
 ---
@@ -22,7 +22,7 @@ I am a software engineer who thrives at the intersection of fluid mobile user in
 - 📱 Building seamless 60 FPS cross-platform mobile apps with Flutter & React Native
 - 🤳 Developing native Android applications using Kotlin, Jetpack Compose & LiveKit WebRTC
 - 🗄️ Architecting real-time communication protocols with gRPC, UDP sockets, and Redis
-- 🤖 Deploying reproducible cloud container environments with Docker & Linux
+- 🤖 Deploying reproducible cloud container environments with Docker, NixOS & Linux
 - 🎓 Shipped production-grade mobile platforms to the Google Play Store
 - ❤️ Contributing to open source and building high-performance systems engines
 
