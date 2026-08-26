@@ -31,24 +31,8 @@ I'm a **Software Engineer** based in **Bengaluru, India** specializing in high-p
 
 ## 🛠 Skills & Technical Arsenal
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,kotlin,dart,go,java,rust&perline=10" height="34" alt="Languages" />
-</p>
-
-### 📱 Frontend & Mobile Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,redux,tailwind,git,github&perline=10" height="34" alt="Mobile" />
-</p>
-
-### ⚡ Backend & Microservices
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,rust,go,docker,linux&perline=10" height="34" alt="Systems and Backend" />
-</p>
-
-### 🗄️ DevOps, Cloud & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,docker,kubernetes,jenkins,aws,nginx,ansible&perline=11" height="34" alt="Databases and Infra" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,go,ts,js,kotlin,dart,java,flutter,androidstudio,react,redux,tailwind,nodejs,express,fastapi,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,jenkins,aws,nginx,ansible,linux,git,github&perline=10" height="42" alt="Technical Skills" />
 </p>
 
 ---
