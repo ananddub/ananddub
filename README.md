@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ananddub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%94+Mobile+%26+Systems+Engineering;Flutter+%7C+React+Native+%7C+Kotlin+Jetpack+Compose;High-Throughput+Engines+in+Rust+%26+Go;Real-Time+gRPC%2C+UDP+Voice+Sockets+%26+LiveKit+WebRTC;Production+Mobile+Platforms+Deployed+to+Google+Play+Store" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%94+Mobile+%26+Systems+Engineering;Flutter+%7C+Jetpack+Compose+%7C+SwiftUI+%7C+React+Native;High-Throughput+Engines+in+Rust+%26+Go;Real-Time+gRPC%2C+UDP+Voice+Sockets+%26+LiveKit+WebRTC;Production+Mobile+Platforms+Deployed+to+Google+Play+Store" alt="Typing Banner" />
   </a>
 </p>
 
@@ -21,9 +21,9 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** specializing in high-performance cross-platform mobile engineering (**Flutter, React Native**), native Android (**Kotlin & Jetpack Compose**), and scalable distributed systems (**Rust & Go**).
+I'm a **Software Engineer** based in **Bengaluru, India** specializing in high-performance native & cross-platform mobile engineering (**Flutter, Jetpack Compose, SwiftUI, React Native**), native Android architecture, and scalable distributed systems (**Rust & Go**).
 
-- 📱 **Mobile Engineering:** Building 60 FPS offline-first apps, local caching (MMKV/Room DB), audio streaming pipelines (RN Track Player), fluid animations, and Google Play Store production deployments.
+- 📱 **Mobile Engineering:** Building 60 FPS offline-first apps, local caching (MMKV/Room DB/Drift), background audio streaming pipelines (RN Track Player), fluid animations, and Google Play Store production deployments.
 - ⚡ **Systems & Distributed Backend:** Architecting modular server daemons, lock-free concurrent in-memory database engines (EBR), low-latency gRPC services, and dedicated UDP voice streaming.
 - 🗄️ **Data & Infrastructure:** Scalable persistence with PostgreSQL, ScyllaDB, TimescaleDB, Redis, MongoDB, NATS, Kafka, and reproducible Docker/NixOS container deployments.
 
@@ -31,59 +31,57 @@ I'm a **Software Engineer** specializing in high-performance cross-platform mobi
 
 ## 🛠 Skills & Technical Arsenal
 
-### 💻 Core Languages
+### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,go,ts,js,kotlin,dart,c,cpp,python,bash&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,swift,kotlin,dart,go,java,rust&perline=10" alt="Languages" />
 </p>
 
-### 📱 Mobile Development & State Architecture
+### 📱 Frontend & Mobile Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,redux,tailwind&perline=10" alt="Mobile" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,redux,tailwind,git,github&perline=10" alt="Mobile" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin_Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Riverpod_2.0-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin_Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/MMKV_Storage-0052CC?style=flat-square" />
   <img src="https://img.shields.io/badge/Room_Database-4285F4?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drift_DB-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MMKV_Storage-0052CC?style=flat-square" />
   <img src="https://img.shields.io/badge/LiveKit_WebRTC-FF4081?style=flat-square&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/RN_Track_Player-1DB954?style=flat-square" />
 </p>
 
-### ⚡ Systems, Backend & Distributed Protocols
+### ⚡ Backend & Microservices
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,go,nodejs,express,fastapi,linux,docker&perline=10" alt="Systems and Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,rust,go,docker,linux&perline=10" alt="Systems and Backend" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Axum_%26_Actix_Web-CE412B?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust_Tokio-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lock--Free_EBR-CE412B?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC_%26_Protobuf-244c5a?style=flat-square&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axum_%26_Actix_Web-CE412B?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lock--Free_EBR-CE412B?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/UDP_Voice_Sockets-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/WebSockets_%26_SSE-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
   <img src="https://img.shields.io/badge/SQLx_Engine-CE412B?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenFGA_Permissions-101828?style=flat-square" />
-  <img src="https://img.shields.io/badge/WireGuard_Tunnels-88171A?style=flat-square&logo=wireguard&logoColor=white" />
 </p>
 
-### 🗄️ Databases, Streaming & Infrastructure
+### 🗄️ DevOps, Cloud & Testing
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,appwrite,docker,kubernetes,nix&perline=10" alt="Databases and Infra" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,docker,kubernetes,jenkins,aws,nginx,ansible&perline=11" alt="Databases and Infra" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/ScyllaDB-556880?style=flat-square&logo=apachecassandra&logoColor=white" />
-  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=postgresql&logoColor=black" />
   <img src="https://img.shields.io/badge/Redis_Pub%2FSub-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/NATS_%26_JetStream-27ADEA?style=flat-square&logo=natsdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redpanda_Kafka-FF4713?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Swarm_%26_K8s-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nix_Flakes_%26_Nixpacks-5277C3?style=flat-square&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testcontainers-2B7A78?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 </p>
 
 ---
@@ -106,11 +104,26 @@ I'm a **Software Engineer** specializing in high-performance cross-platform mobi
 
 ---
 
-### 🎧 [Incord — Full-Stack Real-Time Voice & Chat Platform](https://github.com/ananddub/incord)
-> *Distributed real-time communication platform with dual-transport architecture and native Android client.*
-- **Distributed Backend:** High-concurrency Go engine with gRPC for transactional state and dedicated UDP server for sub-50ms voice packet routing. Backed by ScyllaDB, TimescaleDB, Redis, Redpanda, and 171 automated tests.
-- **Native Android Client:** 17+ screen native client in Kotlin using Jetpack Compose (MVVM), LiveKit WebRTC, and Room DB offline caching.
-- `Go` • `gRPC` • `UDP Sockets` • `ScyllaDB` • `TimescaleDB` • `Kotlin` • `Jetpack Compose` • `LiveKit WebRTC` • `Room DB`
+### 🛒 [Blinkit Quick-Commerce — Full-Stack Android App](https://github.com/ananddub/blinkit-android)
+> *Complete 10-minute grocery delivery native Android application with User and Admin modules.*
+- **User & Admin Modules:** Firebase Phone OTP authentication, category filtering with shimmer loading, dynamic image sliders, Room local database caching, address management, Razorpay payment gateway, and live real-time order tracking.
+- **Admin Dashboard:** Real-time inventory control, product CRUD, and dispatch status updates.
+- `Kotlin` • `Android XML` • `MVVM` • `Firebase Auth` • `Room DB` • `Razorpay` • `Retrofit` • `Glide`
+
+---
+
+### 🎧 [Incord (Discord Clone Android App)](https://github.com/ananddub/incord)
+> *Built a Discord-inspired Android application with real-time messaging, voice/video calls, and guild/channel management using Kotlin and Jetpack Compose.*
+- **Distributed Backend:** High-concurrency Go engine with gRPC for transactional state and dedicated UDP server for sub-50ms voice packet routing. Backed by ScyllaDB, TimescaleDB, Redis, and Redpanda.
+- **Native Android Client:** 15+ screen native client in Kotlin using Jetpack Compose (MVVM + Clean Architecture), LiveKit WebRTC, and Room DB offline caching.
+- `Kotlin` • `Jetpack Compose` • `gRPC` • `LiveKit WebRTC` • `Hilt` • `Room DB` • `Go` • `UDP Sockets`
+
+---
+
+### 💬 ChatConnect — Real-Time SwiftUI & Firebase Chat App
+> *Native iOS real-time chat application with one-to-one messaging and instant synchronization.*
+- **iOS Architecture:** Built with Swift and SwiftUI, featuring Firebase Authentication and Cloud Firestore real-time message stream synchronizers.
+- `Swift` • `SwiftUI` • `Firebase Auth` • `Cloud Firestore`
 
 ---
 
