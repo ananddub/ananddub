@@ -105,11 +105,11 @@ I'm a software developer with hands-on experience building mobile apps and backe
 
 ---
 
-### 🎵 [SoundPulse — High-Performance Audio Streaming App](https://github.com/ananddub/soundpulse)
-> *Mobile music streaming platform featuring low-latency background audio services.*
-- **Audio Engine:** Background audio playback, lock-screen controls, and notification triggers via React Native Track Player.
-- **State & Caching:** Zustand state machine with MMKV storage for instant hydration and dynamic palette color extraction.
-- `React Native` • `TypeScript` • `Zustand` • `RN Track Player` • `MMKV Storage`
+### 🛒 [CartWave — Full-Stack E-Commerce Mobile Platform](https://github.com/ananddub/cartwave)
+> *Modern cross-platform shopping platform with custom Redux cart engine and Node.js REST API.*
+- **Full-Stack Architecture:** React Native mobile client powered by Redux Toolkit for real-time cart state management and an Express.js REST API backend with MongoDB persistence.
+- **Catalog & Orders:** Categorized product browsing, dynamic carousels, search filters, and integrated AdminJS control panel for inventory.
+- `React Native` • `TypeScript` • `Redux Toolkit` • `Node.js` • `Express.js` • `MongoDB` • `AdminJS`
 
 ---
 
@@ -146,7 +146,7 @@ I'm a software developer with hands-on experience building mobile apps and backe
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ananddub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anand's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ananddub&theme=tokyonight&show_icons=true&hide_border=true" alt="Anand's GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ananddub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
