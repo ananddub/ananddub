@@ -140,14 +140,14 @@ I'm a software developer with hands-on experience building mobile apps and backe
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananddub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ananddub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananddub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anand's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananddub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ananddub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anand's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ananddub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
