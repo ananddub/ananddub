@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ananddub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%94+Mobile+%26+Systems+Engineering;Flutter+%7C+Jetpack+Compose+%7C+SwiftUI+%7C+React+Native;High-Throughput+Engines+in+Rust+%26+Go;Real-Time+gRPC%2C+UDP+Voice+Sockets+%26+LiveKit+WebRTC;Production+Mobile+Platforms+Deployed+to+Google+Play+Store" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%E2%80%94+Mobile+%26+Systems+Engineering;Flutter+%7C+Jetpack+Compose+%7C+React+Native;High-Throughput+Engines+in+Rust+%26+Go;Real-Time+gRPC%2C+UDP+Voice+Sockets+%26+LiveKit+WebRTC;Production+Mobile+Platforms+Deployed+to+Google+Play+Store" alt="Typing Banner" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** based in **Bengaluru, India** specializing in high-performance native & cross-platform mobile engineering (**Flutter, Jetpack Compose, SwiftUI, React Native**), native Android architecture, and scalable distributed systems (**Rust & Go**).
+I'm a **Software Engineer** based in **Bengaluru, India** specializing in high-performance native & cross-platform mobile engineering (**Flutter, Jetpack Compose, React Native**), native Android architecture, and scalable distributed systems (**Rust & Go**).
 
 - 📱 **Mobile Engineering:** Building 60 FPS offline-first apps, local caching (MMKV/Room DB/Drift), background audio streaming pipelines (RN Track Player), fluid animations, and Google Play Store production deployments.
 - ⚡ **Systems & Distributed Backend:** Architecting modular server daemons, lock-free concurrent in-memory database engines (EBR), low-latency gRPC services, and dedicated UDP voice streaming.
@@ -33,55 +33,22 @@ I'm a **Software Engineer** based in **Bengaluru, India** specializing in high-p
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,swift,kotlin,dart,go,java,rust&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,kotlin,dart,go,java,rust&perline=10" height="34" alt="Languages" />
 </p>
 
 ### 📱 Frontend & Mobile Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,redux,tailwind,git,github&perline=10" alt="Mobile" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Riverpod_2.0-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin_Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Room_Database-4285F4?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drift_DB-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MMKV_Storage-0052CC?style=flat-square" />
-  <img src="https://img.shields.io/badge/LiveKit_WebRTC-FF4081?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,redux,tailwind,git,github&perline=10" height="34" alt="Mobile" />
 </p>
 
 ### ⚡ Backend & Microservices
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,rust,go,docker,linux&perline=10" alt="Systems and Backend" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/gRPC_%26_Protobuf-244c5a?style=flat-square&logo=grpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axum_%26_Actix_Web-CE412B?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lock--Free_EBR-CE412B?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/UDP_Voice_Sockets-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLx_Engine-CE412B?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,rust,go,docker,linux&perline=10" height="34" alt="Systems and Backend" />
 </p>
 
-### 🗄️ DevOps, Cloud & Testing
+### 🗄️ DevOps, Cloud & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,docker,kubernetes,jenkins,aws,nginx,ansible&perline=11" alt="Databases and Infra" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ScyllaDB-556880?style=flat-square&logo=apachecassandra&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis_Pub%2FSub-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/NATS_%26_JetStream-27ADEA?style=flat-square&logo=natsdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testcontainers-2B7A78?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,docker,kubernetes,jenkins,aws,nginx,ansible&perline=11" height="34" alt="Databases and Infra" />
 </p>
 
 ---
