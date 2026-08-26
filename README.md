@@ -32,7 +32,9 @@ I'm a **Software Engineer** based in **Bengaluru, India** specializing in high-p
 ## 🛠 Skills & Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,ts,js,kotlin,dart,java,flutter,androidstudio,react,redux,tailwind,nodejs,express,fastapi,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,jenkins,aws,nginx,ansible,linux,git,github&perline=10" height="42" alt="Technical Skills" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,go,ts,js,kotlin,dart,java,flutter,androidstudio,react,redux,tailwind,nodejs,express,fastapi,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,jenkins,aws,nginx,ansible,linux,git,github&perline=10" alt="Technical Skills" />
+  </a>
 </p>
 
 ---
