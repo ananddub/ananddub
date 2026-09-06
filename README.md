@@ -31,7 +31,6 @@ I am a software engineer who thrives at the intersection of fluid mobile user in
 ### 🎯 Featured Projects
 
 - 🦀 **[OpenOxide](https://github.com/ananddub/openoxide)** — Modular server infrastructure orchestrator in Rust with compile-time SQLx queries, Docker socket daemon, and WireGuard tunnels.
-- ⚡ **[FerroDB](https://github.com/ananddub/ferrodb)** — Redis-compatible in-memory key-value database engine in Rust with lock-free concurrent hash map (EBR) and RESP3 protocol.
 - 🎧 **[Incord](https://github.com/ananddub/incord)** — Distributed real-time voice & chat platform with Go gRPC backend and Kotlin Jetpack Compose Android client.
 - 🎓 **Equality Through Education (ETE)** — Live production educational mobile platform deployed on Google Play Store with in-app PDF distribution.
 - 🎵 **[SoundPulse](https://github.com/ananddub/soundpulse)** — High-performance React Native audio streaming app with background playback and MMKV storage.
